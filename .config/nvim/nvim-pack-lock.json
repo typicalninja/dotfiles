@@ -3,10 +3,6 @@
     "catppuccin": {
       "rev": "426dbebe06b5c69fd846ceb17b42e12f890aedf1",
       "src": "https://github.com/catppuccin/nvim"
-    },
-    "monokai": {
-      "rev": "b8bd44d5796503173627d7a1fc51f77ec3a08a63",
-      "src": "https://github.com/tanvirtin/monokai.nvim"
     }
   }
 }
